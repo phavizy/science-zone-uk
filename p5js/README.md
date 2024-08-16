@@ -1,1 +1,1 @@
-This is where lessons relating to p5.js will go.
+This is where p5.js lessons will go.
