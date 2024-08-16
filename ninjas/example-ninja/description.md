@@ -1,0 +1,1 @@
+Senseis need to be able to create folders inside the ninjas folder, name them according to the name of the ninja. In these folders it is up to the ninjas to organise their files, teaching them about file management and how important it is. Be prepared to give tips on how to do this effectively.
